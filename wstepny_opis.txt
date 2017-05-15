@@ -1,0 +1,17 @@
+wstepny opis
+
+Za³o¿eniem projektu jest stworzenie gry zrêcznoœciowej na platfory Android z wykorzystaniem technologi Unity.
+Gra ma polegaæ na poruszaniu siê u¿ytkownika na wprost ( w górê ekranu ) i unikaniu przeszkód, które bêd¹ pojawiaæ siê na drodze.
+U¿ytkownik bêdzie mia³ do pokonania okreslon¹ drogê, a celem gry bêdzie pokonanie jej bez zderzenia z przeszkod¹. Zderzenie z przeszkod¹
+automatycznie przerywa grê i powoduje jej zakoñczenie oraz pojawienie siê wyniku w postaci przejechanej odleg³oœci.
+
+projekt bêd¹ realizowaæ:
+Konrad Lendzion
+Micha³ Sroczyñski
+Nikodem Homenda
+
+wstêpne zadania do zaprojektowania i implementacji:
+
+Konrad: metod zwi¹zanych u¿ytkownikiem i z jego ruchem
+Nikodem: metod zwi¹zanych z t³em, przeszkodami oraz ich ruchem
+Micha³: metod zwi¹zanych z menu i wyborem funkcji gry zapis postêpów gry
